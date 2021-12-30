@@ -2,7 +2,7 @@
 description: Also known as FFT Token
 ---
 
-# 🔆 Farm Finance Token
+# 🌟 Farm Finance Token
 
 ![](<.gitbook/assets/132px logo.png>)
 
@@ -20,4 +20,3 @@ description: Also known as FFT Token
 * CEX Trading ( coming soon... )
 * Warehouse ( coming soon... )
 * Voting prososal ( coming soon... )
-

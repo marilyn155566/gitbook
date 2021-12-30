@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🌽 Farm Finance](README.md)
-* [🔆 Farm Finance Token](farm-finance-token.md)
+* [🌟 Farm Finance Token](farm-finance-token.md)
 * [🎯 Tokennomic](tokennomic/README.md)
   * [Token Allocation](tokennomic/token-allocation.md)
   * [Token Sale Allocation](tokennomic/token-sale-allocation.md)
@@ -12,10 +12,10 @@
   * [NFT](gameplay/nft.md)
   * [Land](gameplay/land.md)
   * [Seed Box](gameplay/seed-box.md)
-  * [Daily quest ( Coming soon )](gameplay/daily-quest-coming-soon.md)
-  * [Friends ( Coming soon )](gameplay/friends-coming-soon.md)
+  * [Daily quest](gameplay/daily-quest-coming-soon.md)
+  * [Friends](gameplay/friends-coming-soon.md)
   * [Shop & Items Feature](gameplay/shop-and-items-feature.md)
   * [Marketplace](gameplay/marketplace.md)
 * [🛣 Roadmap](roadmap.md)
 * [👥 Team & Partners](team-and-partners.md)
-* [📝 Official infomation](official-infomation.md)
+* [📗 Official infomation](official-infomation.md)

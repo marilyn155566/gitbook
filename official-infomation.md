@@ -1,10 +1,8 @@
-# 📝 Official infomation
+# 📗 Official infomation
 
 ### Smart Contract ( $FFT )
 
 Coming soon...
-
-
 
 ### Official Channels
 
@@ -21,10 +19,3 @@ Telegram Channel : [https://t.me/FarmFinanceChannel](https://t.me/FarmFinanceCha
 Telegram Group : [https://t.me/FarmFinanceGlobal](https://t.me/FarmFinanceGlobal)
 
 Email : contact@farmfinance.me
-
-
-
-
-
-
-

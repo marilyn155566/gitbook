@@ -9,11 +9,10 @@ Purchase a Seed Box costs different $FFT depending on your option.
 
 Each Seed Box has 1 plant inside. There will be a random chance to get different plants depending on your luck, as well as Genes, ID has been transplanted into it.
 
-|                     | Corn ( % rate ) | Coffee ( % rate ) | Litchi ( % rate ) | Price |
-| ------------------- | --------------- | ----------------- | ----------------- | ----- |
-| **Normal Seed Box** | 60%             | 30%               | 10%               |       |
+|                     | Corn ( % rate ) | Coffee ( % rate ) | Litchi ( % rate ) |
+| ------------------- | --------------- | ----------------- | ----------------- |
+| **Normal Seed Box** | 60%             | 30%               | 10%               |
 
 |                   | Rice ( % rate ) | Mango ( % rate ) |
 | ----------------- | --------------- | ---------------- |
 | **Rare Seed Box** | 90%             | 10%              |
-
