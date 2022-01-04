@@ -10,13 +10,13 @@
 
 |                             | <mark style="color:blue;">**Total Token ( FFT )**</mark>        | <mark style="color:blue;">**Total Supply ( % )**</mark> |
 | --------------------------- | --------------------------------------------------------------- | ------------------------------------------------------- |
-| **Play To Earn**            | 99,000,000                                                      | 49.5%                                                   |
+| **Play To Earn**            | 99,000,000 ( Lock Contract )                                    | 49.5%                                                   |
 | **Private Sale**            | 10,000,000 ( Unlocked 25% at TGE, then each 25% in week after ) | 5%                                                      |
 | **PreSale ( IDO listing )** | 20,000,000                                                      | 10%                                                     |
 | **Airdrop**                 | 2,000,000                                                       | 1%                                                      |
 | **Marketing**               | 14,000,000                                                      | 7%                                                      |
 | **Liquidity**               | 5,000,000 ( Lock 1 year )                                       | 2.5%                                                    |
-| **Staking**                 | 20,000,000                                                      | 10%                                                     |
+| **Staking**                 | 20,000,000 ( Lock Contract )                                    | 10%                                                     |
 | **Team**                    | 10,000,000 ( Lock 1 year, then unlocked 20% each month )        | 5%                                                      |
 | **Partner**                 | 20,000,000 ( Lock 6 months, then unlocked 20% each month )      | 10%                                                     |
 
