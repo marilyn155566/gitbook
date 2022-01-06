@@ -42,19 +42,19 @@ Minimum invest : 0.1 BNB - Maximum invest : 5 BNB
 
 Vesting : Full unlocked
 
-Fund raised allocate :
+Fund raised allocate :&#x20;
 
-![](../.gitbook/assets/LP.jpg)
+![](../.gitbook/assets/chartLP.png)
 
 ### \*Liquidity Pool ( BNB pair )
 
 For reached hardcap :
 
-\+ 62,5% ( 250 BNB ) will be added to LP on pancakeswap and **locked for 1 year**.
+\+ 62% ( 250 BNB ) will be added to LP on pancakeswap and **locked for 1 year**.
 
 For reached softcap :
 
-\+ 62,5% ( 125 BNB ) will be added to LP on pancakeswap and **locked for 1 year**
+\+ 62% ( 125 BNB ) will be added to LP on pancakeswap and **locked for 1 year**
 
 ### \*Treasury fund
 
