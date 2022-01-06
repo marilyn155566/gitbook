@@ -26,17 +26,19 @@ Fund raised allocate :
 
 ### 2/ Presale
 
-Presale will be organized in Public platform ( TBA )
+Presale will be organized first on Pinksale&#x20;
+
+[https://www.pinksale.finance/#/launchpad/0x9eD9ba79791484988Bb8c6042633e655b775fE0B](https://www.pinksale.finance/#/launchpad/0x9eD9ba79791484988Bb8c6042633e655b775fE0B)
 
 **ONLY CONTACT AND CHECK OUR TOKEN CONTRACT ON OFFICIAL CHANNELS**
 
-Date : TBA
+Date : 08/01/2022
 
 <mark style="color:red;">**1 BNB \~ 13,500 FFT**</mark>
 
-Total supply : 20,000,000 FFT
+Total supply : 5,400,000 FFT ( Hardcap : 400 BNB )
 
-Minimum invest : 0.1 BNB - Maximum invest : 2 BNB
+Minimum invest : 0.1 BNB - Maximum invest : 5 BNB
 
 Vesting : Full unlocked
 
@@ -44,15 +46,15 @@ Fund raised allocate :
 
 ![](../.gitbook/assets/LP.jpg)
 
-### \*Liquidity Pool ( BUSD pair )
+### \*Liquidity Pool ( BNB pair )
 
 For reached hardcap :
 
-\+ 62,5% ( 500,000 BUSD ) will be added to LP on pancakeswap and **locked for 1 year**.
+\+ 62,5% ( 250 BNB ) will be added to LP on pancakeswap and **locked for 1 year**.
 
 For reached softcap :
 
-\+ 62,5% ( 250,000 BUSD ) will be added to LP on pancakeswap and **locked for 1 year**
+\+ 62,5% ( 125 BNB ) will be added to LP on pancakeswap and **locked for 1 year**
 
 ### \*Treasury fund
 
