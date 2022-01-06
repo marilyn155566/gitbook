@@ -5,3 +5,5 @@
 Also this is can be the second method for you to get your plant with your own options. However, the price on the market might be higher than the Seed Box depend on community's activities.
 
 In the future, more "**Community Feature**" will be released. ( Roadmap )
+
+![](../.gitbook/assets/photo\_2021-12-25\_19-09-02.jpg)
