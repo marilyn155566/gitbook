@@ -17,7 +17,6 @@ There will be 2 token in Farm Finance ecosystem : **FFT and cFFT**
 
 * <mark style="color:orange;">**In-Game Currency - only can be converted with rate 1 cFFT < - > 1 FFT**</mark>
 * <mark style="color:orange;">**CANNOT withdrawn onchain and traded**</mark>
-* <mark style="color:orange;">****</mark>
 
 ### 2/ Transaction :
 
