@@ -20,13 +20,13 @@ There will be 2 token in Farm Finance ecosystem : **FFT and cFFT**
 
 ### 2/ Transaction :
 
-All deposit, withdraw, convert transaction will be taken place at : [http://marketplace.farmfinance.me/](http://marketplace.farmfinance.me) - Here is steps to do :
+All deposit, withdraw, convert transaction will be taken place at : [https://marketplace.farmfinance.me/](http://marketplace.farmfinance.me) - Here is steps to do :
 
 _<mark style="color:red;">**A) DEPOSIT**</mark>_
 
 \+Players need have their $FFT token in Metamask wallet first, token can be traded on these exchanges [( Click here )](official-infomation.md)
 
-\+Go to [http://marketplace.farmfinance.me/](http://marketplace.farmfinance.me) - **Convert** your $FFT token to $cFFT token.
+\+Go to [https://marketplace.farmfinance.me/](http://marketplace.farmfinance.me) - **Convert** your $FFT token to $cFFT token.
 
 \+Deposit $cFFT token into game, then you can start to play.
 
@@ -34,7 +34,7 @@ _<mark style="color:red;">**B) WITHDRAW**</mark>_
 
 \+For withdrawing $cFFT, players need **AT LEAST 600 $cFFT** to can convert & withdraw
 
-\+Go to [http://marketplace.farmfinance.me/](http://marketplace.farmfinance.me) - **Convert** your $cFFT token to $FFT token.
+\+Go to [https://marketplace.farmfinance.me/](http://marketplace.farmfinance.me) - **Convert** your $cFFT token to $FFT token.
 
 \+Then you're done.
 
