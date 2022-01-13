@@ -16,6 +16,7 @@
   * [Friends](gameplay/friends-coming-soon.md)
   * [Shop & Items Feature](gameplay/shop-and-items-feature.md)
   * [Marketplace](gameplay/marketplace.md)
+* [⚖ Currency, Transaction, Taxes](currency-transaction-taxes.md)
 * [🛣 Roadmap](roadmap.md)
 * [👥 Team & Partners](team-and-partners.md)
 * [📗 Official infomation](official-infomation.md)
