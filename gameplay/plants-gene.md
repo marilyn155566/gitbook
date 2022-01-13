@@ -4,13 +4,13 @@ description: A function helping in farming
 
 # Plant's gene
 
-:gem:Plant's gene is a function that determines which gene your plant had. According that, it will help a lot in the farming process, also decided how worth your plant is.
+:gem:Plant's gene is a function that determines which gene your plant had. According to that, it will help a lot in the farming process, also decided how worth your plant is.
 
-1. There are **10 type of genes**
+1. There are **10 types of genes**
 2. Plant from :star:1 star -> :star:4 star will have 2 genes . Only :star:5 have 3 genes
 3. You will get **randomly Gene** when you buy seed box in Shop
 4. Every Genes \*\*\*\* have **different appearance rate** ( detail rate % in table below )
-5. For now, Plant's gene will be **permanent and irreplaceable** ( there will be items to change new gene in the future - Q1/2022 )
+5. For now, Plant's gene will be **permanent and irreplaceable** ( there will be items to change a new gene in the future - Q1/2022 )
 
 | **Name of gene**                                               | **Description**                                          | **Appearance rate** |
 | -------------------------------------------------------------- | -------------------------------------------------------- | ------------------- |

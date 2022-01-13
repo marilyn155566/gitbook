@@ -4,7 +4,7 @@ description: The most important item in Farm Finance Game
 
 # Plant
 
-:shamrock:Plant will be play a very important role in the game - as a main item to generate profits for you in early stage, there will be 5 type of plants is sorted by rarity.
+:shamrock:Plant will be playing a very important role in the game - as a main item to generate profits for you in early stage, there will be 5 types of plants is sorted by rarity.
 
 :star:1 Star : Corn
 
@@ -30,6 +30,3 @@ Each of plants will bring to players different profit and XP points. Detail belo
 | **Rice**   | 200           | 30           | 24 hrs       |
 | **Mango**  | 375           | 50           | 24 hrs       |
 |            |               |              |              |
-
-
-
