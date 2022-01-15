@@ -21,6 +21,6 @@ description: A function helping in farming
 | **5. Lucky Day**![](../.gitbook/assets/luckyDay.png)           | Have 1% get normal box when harvest                      | 5%                  |
 | **6. Lucky Day Gold**![](../.gitbook/assets/luckyDayGold.png)  | Have 2% get normal box when harvest                      | 5%                  |
 | **7. iHarvest** ![](../.gitbook/assets/iHarvest.png)           | Automatic harvest all plants in "harvestable condition". | 10%                 |
-| **8. iSpray** ![](../.gitbook/assets/iSpray.png)               | <p>Reduction 1 hour when spraying<br>( Owner only )</p>  | 10%                 |
+| **8. iSpray** ![](../.gitbook/assets/iSpray.png)               | <p>Reduction 2 hour when spraying<br>( Owner only )</p>  | 10%                 |
 | **9. iWater** ![](../.gitbook/assets/iWater.png)               | <p>Reduction 1 hour when watering<br>( Owner only )</p>  | 10%                 |
 | **10. The HappyFace**![](../.gitbook/assets/theHappyFace.png)  | Let's smile even you have nothing.                       | 40%                 |
