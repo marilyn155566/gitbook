@@ -26,9 +26,7 @@ Fund raised allocate :
 
 ### 2/ Presale
 
-Presale will be organized first on Pinksale&#x20;
 
-[https://www.pinksale.finance/#/launchpad/0x9eD9ba79791484988Bb8c6042633e655b775fE0B](https://www.pinksale.finance/#/launchpad/0x9eD9ba79791484988Bb8c6042633e655b775fE0B)
 
 **ONLY CONTACT AND CHECK OUR TOKEN CONTRACT ON OFFICIAL CHANNELS**
 
